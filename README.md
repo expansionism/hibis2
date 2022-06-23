@@ -1,2 +1,2 @@
-# hibis2
-Hibis Squared - Bug Fixed and More!
+# hibis²
+Hibis Squared - Ugraded Version of Hibis!!
