@@ -1,2 +1,2 @@
 # hibis²
-Hibis Squared - Ugraded Version of Hibis!!
+### Hibis Squared - Ugraded Version of Hibis!!
